@@ -1,6 +1,6 @@
 *SDST* catalogue: results for the Survey for Distant Solar Twins
 ================================================================
-
+The catalogue accompanying the results paper Lehmann et al. (2022b), concluding the Survey for Distant Solar Twins. It contains all relevant information we have extracted during our analysis.
 
 Parameters
 ----------
@@ -70,28 +70,28 @@ The catalogue contains the following parameters:
   
   MedianSigma : The median sigma uncertainty for measurements with HERMES
   
-  teff_nc : The effective temperature measured by the EPIC algorithm using the initial (non corrected) photometric callibration
+  teff_nc : The effective temperature measured by the EPIC algorithm using the initial (non corrected) photometric calibration
   
   err_teff_nc : The uncertainty of teff_nc
   
-  logg_nc : The surface gravity measured by the EPIC algorithm using the initial (non corrected) photometric callibration
+  logg_nc : The surface gravity measured by the EPIC algorithm using the initial (non corrected) photometric calibration
   
   err_logg_nc : The uncertainty of logg_nc
   
-  feh_nc :  The metallicity measured by the EPIC algorithm using the initial (non corrected) photometric callibration
+  feh_nc :  The metallicity measured by the EPIC algorithm using the initial (non corrected) photometric calibration
   
   err_feh_nc : The uncertainty of feh_nc
   
   age_x, mass_x. logl_x, mv_x, r_x : Measured values of the q^2 algorithm (Ramirez et al. 2014, https://github.com/astroChasqui/q2)
   
-  P_ST : The likelihood of a star to be a solar twin according to the solar twin definition in Berke et al. (2022b) and stellar parameters calcualted by 
+  P_ST : The likelihood of a star to be a solar twin according to the solar twin definition in Berke et al. (2022b) and stellar parameters calculated by 
   EPIC
   
-  P_SA : The likelihood of a star to be a solar analogue according to the solar twin definition in Berke et al. (2022b) and stellar parameters calcualted 
+  P_SA : The likelihood of a star to be a solar analogue according to the solar twin definition in Berke et al. (2022b) and stellar parameters calculated 
   by EPIC
   
-  P_ST_nc : The likelihood of a star to be a solar twin according to the solar twin definition in Berke et al. (2022b) and stellar parameters calcualted by 
-  EPIC using the initial (non corrected) photometric callibration
+  P_ST_nc : The likelihood of a star to be a solar twin according to the solar twin definition in Berke et al. (2022b) and stellar parameters calculated by 
+  EPIC using the initial (non corrected) photometric calibration
   
   P_SA_nc : The likelihood of a star to be a solar analogue according to the solar twin definition in Berke et al. (2022b) and stellar parameters 
-  calcualted by EPIC using the initial (non corrected) photometric callibration
+  calculated by EPIC using the initial (non corrected) photometric calibration
